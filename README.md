@@ -14,3 +14,22 @@ Data science Free guide
 
 4. Machine Learning Crash Course
 🌐 https://lnkd.in/eqHZfMXa
+🎯 Best FREE Websites for Learning SQL 👩‍💻
+
+📚 SQLZoo
+https://lnkd.in/ed4-E3vH
+
+📚 Codecademy
+https://lnkd.in/eaABTh5C
+
+📚 SQLBot
+https://sqlbolt.com/
+
+📚 Udacity
+https://lnkd.in/e6GCb-_X
+
+📚 Khan Academy
+https://lnkd.in/ekhQzm3K
+
+📚 FreeCodeCamp
+https://lnkd.in/ectKV_Np
